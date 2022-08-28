@@ -1,4 +1,4 @@
-import { DrinkData } from 'components/DrinkData'
+import { DrinkData } from 'components/RandomDrinkContainer/DrinkData'
 import React from 'react'
 
 export const DisplayDrinks = () => {
